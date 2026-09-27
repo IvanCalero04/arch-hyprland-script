@@ -1,3 +1,3 @@
-# arch-hyprland-script
-# arch-hyprland-script
-# arch-hyprland-script
+# Script de instalacion de Hyprland para ArchLinux
+
+
